@@ -12,3 +12,4 @@ let divdosvalores = a / b;
 console.log(divdosvalores);
 let restodosvalores = a % b;
 console.log(restodosvalores);
+// realizando operações simples
