@@ -5,4 +5,11 @@ for (let index = 0; index < numbers.length; index += 1) {
   sum += numbers[index];
 }
 let divisao = sum / numbers.length;
+
 console.log(divisao);
+
+if (divisao > 20) {
+  console.log("valor maior que 20");
+} else {
+  console.log("valor menor ou igual a 20");
+}
